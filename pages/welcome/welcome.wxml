@@ -2,6 +2,6 @@
     <image class="user-avater" src="/images/avatar/4.png"></image>
     <text class="user-name">hello 黄继鹏</text>
     <view class="moto-container" bindtap="onTap">
-    	<text class="moto" catchtap="onteztop">开启小程序之旅</text>
+    	<text class="moto">开启小程序之旅</text>
     </view>
 </view>

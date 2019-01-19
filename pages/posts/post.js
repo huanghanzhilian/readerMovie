@@ -12,7 +12,7 @@ Page({
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-    // this.data.postList =postsData.postList;
+    // this.data.posts_key = postsData.postList;
     this.setData({
       posts_key:postsData.postList
     });
