@@ -93,7 +93,7 @@
 	11 完成电影详情页面 下
 	12 小程序Q&A
 第十章： Form表单类组件与Map地图组件
-	1 form之switch组件
+	1 form之switch组件 xx
 	2 form之slider组件
 	3 form之radio组件
 	4 form之checkbox组件
