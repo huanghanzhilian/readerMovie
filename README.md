@@ -96,7 +96,7 @@
 	1 form之switch组件 xx
 	2 form之slider组件
 	3 form之radio组件
-	4 form之checkbox组件 pp
+	4 form之checkbox组件 l
 	5 form表单提交
 	6 map组件 k
 ```
