@@ -7,12 +7,18 @@
     "pages/posts/post-detail/post-detail",
     "pages/movies/more-movie/more-movie"
   ],
+  "plugins": {
+    "myPlugin": {
+      "version": "1.0.0",
+      "provider": "wx3da652f5c8b7700c"
+    }
+  },
   "window": {
     "navigationBarBackgroundColor": "#405f80"
   },
   "tabBar": {
     "borderStyle": "white",
-    "position":"bottom",
+    "position": "bottom",
     "list": [
       {
         "pagePath": "pages/posts/post",
@@ -28,5 +34,8 @@
       }
     ]
   },
-  "requiredBackgroundModes":["audio"]
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "sitemapLocation": "sitemap.json"
 }
