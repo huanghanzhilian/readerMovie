@@ -10,13 +10,13 @@
 
 #### 首页列表页
 
-<img src="http://blog.huanghanlian.com/uploads/article/44a16c33-c641-40b4-931b-b2f1ca739da1.png" width="250" height="auto"/>
+<img src="http://blog.huanghanlian.com/uploads/article/9c772f3f-5d47-4253-9db4-5c66b0deef12.png" width="250" height="auto"/>
 
 #### 动态详情页
 
 包含点赞收藏功能，音乐播放功能
 
-<img src="http://blog.huanghanlian.com/uploads/article/dc2cbb18-c20e-4cd3-8747-ee6935fd9f4f.png" width="250" height="auto"/>
+<img src="http://blog.huanghanlian.com/uploads/article/fa9db312-0630-490b-8df9-406fe2efa851.png" width="250" height="auto"/>
 
 #### 电影列表页
 
@@ -24,7 +24,7 @@
 
 
 
-<img src="http://blog.huanghanlian.com/uploads/article/3657ff4a-800c-43ea-b6dd-ab93764c1460.png" width="250" height="auto"/>
+<img src="http://blog.huanghanlian.com/uploads/article/e94d55a2-b788-49ef-a02a-2f1191bf3811.png" width="250" height="auto"/>
 
 
 
@@ -33,7 +33,7 @@
 
 
 
-<img src="http://blog.huanghanlian.com/uploads/article/11f3dfbd-b3b4-401f-a37f-329f55174c5d.png" width="250" height="auto"/>
+<img src="http://blog.huanghanlian.com/uploads/article/c198d43f-4cc0-4acc-979e-b6ddad54351d.png" width="250" height="auto"/>
 
 
 
